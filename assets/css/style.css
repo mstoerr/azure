@@ -1,0 +1,59 @@
+body{
+    font-family: Verdana;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: black;
+}
+.nav-position{
+    margin-top: 50px;
+}
+#slide1 {
+    background-color: #cccccc;
+}
+
+/*.box*/
+/*{*/
+    /*padding: 10px;*/
+    /*height: 800px;*/
+    /*border: 1px solid #cccccc;*/
+    /*border-top:none;*/
+/*}*/
+
+
+/*#slide1{*/
+    /*background-image: url("../images/welcome4.jpg");*/
+    /*padding: 5px;*/
+/*}*/
+#slide1 h1{
+    color: #ffffff;
+    font-size: 30px;
+}
+#slide1 p{
+    text-align: justify;
+    color: #ffffff;
+    font-size: 14px;
+}
+/*#slide2{*/
+    /*background-color: #0caeb0;*/
+/*}*/
+.spacing-sm{
+    margin-top: 10px;
+}
+.spacing-md{
+    margin-top: 20px;
+}
+.spacing-lg{
+    margin-top: 30px;
+}
+.bar{
+    background-color:#2aabd2;
+}
+.navbar-brand{
+    color: goldenrod;
+    font-size: 42px;
+    font-family: "Times New Roman";
+}
+.navbar{
+    background-color: black;
+}
